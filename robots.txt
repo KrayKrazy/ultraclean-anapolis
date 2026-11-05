@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ultraclean-anapolis.vercel.app/sitemap.xml
